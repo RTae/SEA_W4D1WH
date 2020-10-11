@@ -1,24 +1,19 @@
 certifi==2020.6.20
 click==7.1.2
-cycler==0.10.0
 Flask==1.1.2
-Flask-Cors @ file:///tmp/build/80754af9/flask-cors_1598886879133/work
+Flask-Cors==3.0.9
 itsdangerous==1.1.0
 Jinja2==2.11.2
-joblib @ file:///tmp/build/80754af9/joblib_1601912903842/work
-kiwisolver==1.2.0
+joblib==0.17.0
 MarkupSafe==1.1.1
-matplotlib==3.3.2
-mkl-fft==1.2.0
-mkl-random==1.1.1
-mkl-service==2.3.0
-mock==3.0.5
-numpy @ file:///opt/concourse/worker/volumes/live/40d975a3-7e82-44c8-53df-feccdbce8b96/volume/numpy_and_numpy_base_1596233859108/work
-Pillow==7.2.0
-pyparsing==2.4.7
-python-dateutil==2.8.1
-scikit-learn @ file:///opt/concourse/worker/volumes/live/2dacdc11-21e7-44f5-57b4-6b8eb6ceb626/volume/scikit-learn_1598376924598/work
-scipy @ file:///opt/concourse/worker/volumes/live/9698578f-91da-4d5f-6fce-b26b1f42eb5a/volume/scipy_1597686637948/work
+mkl-fft==1.0.6
+mkl-random==1.0.1.1
+numpy==1.19.1
+pip==20.2.3
+scikit-learn==0.23.2
+scipy==1.5.2
+setuptools==50.3.0
 six==1.15.0
-threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
+threadpoolctl==2.1.0
 Werkzeug==1.0.1
+wheel==0.35.1
